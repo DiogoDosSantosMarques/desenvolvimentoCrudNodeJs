@@ -1,0 +1,7 @@
+PUT http://localhost:3000/clientes/ExKNCjCpQNytAA7AL6zv
+Content-Type: application/json
+
+{
+    "cpf": 11111111111,
+    "nome_cliente": "Dani"
+}
